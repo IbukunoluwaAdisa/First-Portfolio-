@@ -1,0 +1,15 @@
+section, .bg-info, .bg-warning{height: 80vh;}
+.text, h5, span{ font-family: monospace;}
+.left{height: 70vh; width: 50%;}
+.copyright{margin-top: 120px;}
+.okay{width: 40px;}
+.klas{gap: 60px; padding-left: 65%; padding-top: 15px;}
+.first{padding-top: 60px;}
+.give{padding-top: 20px;}
+.sept, .first, .copyright{padding-left: 30px;}
+.image{
+    width: 40%; height: 70vh; float: right; margin-right: 80px; margin-top: 70px; filter: sepia(50%); mix-blend-mode: overlay;}
+.foot{height: 70vh; width: 50%;}
+a i:hover{
+    background-color: rgb(177, 185, 62);
+}
